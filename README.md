@@ -58,4 +58,4 @@ Final model (SVM) evaluated on the real test set (`test_data.txt`): **55.3% accu
 ## Author
 
 **Purva Jain**  
-[GitHub](https://github.com/darkmonnzz) | [LinkedIn](https://linkedin.com/in/purvajain)
+[GitHub](https://github.com/darkmonnzz) | [LinkedIn](www.linkedin.com/in/purva-jain-83901b286)
