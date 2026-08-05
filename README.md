@@ -54,3 +54,8 @@ Final model (SVM) evaluated on the real test set (`test_data.txt`): **55.3% accu
 1. Clone the repo
 2. Open `genre training.ipynb` to see the full training pipeline, or
 3. Open `genre testing.ipynb` to load the saved model and evaluate directly on test data
+
+## Author
+
+**Purva Jain**  
+[GitHub](https://github.com/darkmonnzz) | [LinkedIn](https://linkedin.com/in/purvajain)
